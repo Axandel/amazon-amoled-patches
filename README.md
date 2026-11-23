@@ -15,14 +15,13 @@ Ajoute l'URL de ce dépôt comme source dans Morphe Manager : `https://github.co
 ## 🩹 Liste des patches
 
 <!-- PATCHES_START EXPANDED -->
-<!-- Section générée automatiquement par release.yml à chaque release. Ne pas modifier à la main. -->
+> **[v1.0.0-dev.1](https://github.com/Axandel/amazon-amoled-patches/releases/tag/v1.0.0-dev.1)**&nbsp;&nbsp;&middot;&nbsp;&nbsp;`dev`&nbsp;&nbsp;&middot;&nbsp;&nbsp;**3 patches** across **3 apps**&nbsp;&nbsp;&middot;&nbsp;&nbsp;[Full details](PATCHES.md)
 
-| Patch | Description |
-|---|---|
-| **AMOLED dark theme** | Thème noir pur pour toute l'application : pages web (fiches produit, recherche, panier…) et écrans natifs. Les photos produits et les boutons d'achat gardent leurs vraies couleurs. |
-
-&nbsp;
-
+| # | App | Patches | Version | Package |
+|---|---|---|---|---|
+| 1 | [**Amazon Business**](PATCHES.md#amazon-business-comamazonmshopandroidbusinessshopping) | 1 | — | [`com.amazon.mShop.android.business.shopping`](https://play.google.com/store/apps/details?id=com.amazon.mShop.android.business.shopping) |
+| 2 | [**Amazon India**](PATCHES.md#amazon-india-inamazonmshopandroidshopping) | 1 | `32.19.0.300` | [`in.amazon.mShop.android.shopping`](https://play.google.com/store/apps/details?id=in.amazon.mShop.android.shopping) |
+| 3 | [**Amazon Shopping**](PATCHES.md#amazon-shopping-comamazonmshopandroidshopping) | 1 | `32.19.0.100` | [`com.amazon.mShop.android.shopping`](https://play.google.com/store/apps/details?id=com.amazon.mShop.android.shopping) |
 <!-- PATCHES_END -->
 
 ## ⚙️ Options du patch
